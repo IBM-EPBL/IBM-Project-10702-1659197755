@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Login Page</title>
+<link rel="stylesheet" href="../static/CSS/style.css" />
+<!-- font styles cdn -->
+</head>
+<body>
+<div class="container">
+<div class="login text-center mt-5">
+<h1>Login Form</h1>
+<hr>
+<form action="/login" method="post">
+<div class="msg">{{ msg }}</div>
+<label for="username"><b>Username:</b></label>
+<input
+type="text"
+name="username"
+placeholder="Enter Your Username"
+id="username"
+required
+/>
+<label for="password"><b>Password:</b></label>
+<input
+type="password"
+name="password"
+placeholder="Enter Your Password"
+id="password"
+required
+/><button type="submit" id="button" class="registerbtn">Login</button>
+</form>
+</div>
+<div class="note mt-3 text-center">
+<p>
+Don't have an account yet? Click here to <a href="/">register! </a>
+</p>
+</div>
+</div>
+</body>
+</html>
