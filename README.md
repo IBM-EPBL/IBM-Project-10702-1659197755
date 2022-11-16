@@ -115,8 +115,11 @@ accounting but also give you helpful insights about financial management
 - [Sprint 4]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%204)
 
 ## Final deliverables
+### [Readme](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/blob/main/Final%20Deliverables/Readme.md)
    
 - [Code](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20Deliverables/Final%20code)
+- [Report](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/blob/main/Final%20Deliverables/Project%20Report/Project%20Report.pdf)
+- [Demo Video](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/blob/main/Final%20Deliverables/Demo%20Video/Demo%20Video.mp4)
 
 <p align="center">
 <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
