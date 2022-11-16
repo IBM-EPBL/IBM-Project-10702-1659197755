@@ -1,28 +1,34 @@
+<br>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" align="center" alt="drawing" width="200" />
+  <h2 align="center">PERSONAL EXPENSE TRACKER APPLICATION</h2>
+</div><br>
+
 # IBM-Project-10702-1659197755
-## Personal Expense Tracker Application
-### Team ID: PNT2022TMID47667
 
-#### Team Leader: Mohamed Fawwash Khan S
 
-Team Member 1: Abu Afeef S
 
-Team Member 2: Mohamed Ajeem K
+## Project Details
+| Team ID       | PNT2022TMID47667        |
+| ------------- | -------------                |
+| Technology    | Cloud Application Development|
+|  Domain       | Banking & Finance            | 
 
-Team Member 3: Sanjay G
 
-## Introduction
+## Team Members
+| Team Member  | Name            | Register No    |
+| -------------| -------------   | --------       |
+| Team Leader    | Mohamed Fawwash Khan S       | 911519104021   |
+| Team Member1 | Abu Afeef S     | 911519104002  |
+| Team Member2 | Mohamed Ajeem K        | 911519104020   |
+| Team Member3 | Sanjay G       | 911519104301   |
 
-When it comes to tracking expenses, you can make your system as simple as collecting receipts and organizing them once a month. 
+## Problem Statement 
 
-You might get a little more information from other expense tracking systems (listing them in a spreadsheet, using money management software or even choosing an online application), but all methods have one thing in common: you have to get in the habit of thinking about your expenses. 
+Personal finance entails all the financial decisions and activities that a Finance app makes your life easier by helping you to manage your finances efficiently. A personal finance app will not only help you with budgeting and accounting but also give you helpful insights about money management.
 
-It’s very easy to misplace a receipt or forget about any cash you spent. You may even think that a cup of coffee or a trip to the vending machine isn’t worth tracking — although those little expenses can add up amazingly fast. 
 
-There are all sorts of opportunities to throw a kick into your plan to track expenses. You have to get in the habit of doing so, to reduce those lapses, and make sure that the data you’re basing financial decisions on is solid. 
-
-This project will request the clients to add their expenses and in
-view of their costs ,wallet status will be refreshed which will be
-noticeable to the client.
+Personal finance applications will ask users to add their expenses and based on their expenses wallet balance will be updated which will be visible to the user.  Also, users can get an analysis of their expenditure in graphical forms. They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert.
 
 ## Motivation
 
@@ -74,6 +80,36 @@ noticeable to the client
 - A personal finance app will not only help you with budgeting and 
 accounting but also give you helpful insights about financial management
 
-## Technical Architecture
+## Architecture
+<p align="center">
+  <img src="https://lh6.googleusercontent.com/rEq5ONu1NkSrSCO2bCYqPGfekO-jk-xyVo6TK1ZzwFrWosaBAzNpsiTcljCtT9wf0LvzUY18F9FTVzWBKTWCavF2lNG8N52IX6Ox6bJKd5uE7mTjU5_fG7Dh9OlY5g"  title="hover text">
+</p>
 
-![image](https://user-images.githubusercontent.com/78342430/190962811-1d95e7be-92c5-4f7a-8e4a-e6991ea12449.png)
+
+## Assignments
+
+- [Mohamed Fawwash Khan S]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/ASSIGNMENT/Moahmed%20Fawwash%20Khan%20S%20-%20TEAM%20LEADER)
+- [Abu Afeef S]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/ASSIGNMENT/Abu%20Afeef%20S%20-%20Team%20Member%201)
+- [Mohamed Ajeem K ]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/ASSIGNMENT/Mohamed%20Ajeem%20K%20-%20Team%20Member%202)
+- [Sanjay G]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/ASSIGNMENT/Sanjay%20G%20-%20Team%20Member%203)
+
+## Project Design and Planning
+
+- [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+
+- [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I)
+
+- [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase-II)
+
+- [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
+
+## Sprint
+
+- [Sprint 1]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%201)
+- [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%202)
+- [Sprint 3]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%203)
+- [Sprint 4]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%204)
+
+## Final deliverables
+   
+- [Code]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20deliverables/Final%20code)
