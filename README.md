@@ -115,7 +115,7 @@ accounting but also give you helpful insights about financial management
 
 ## Final deliverables
    
-- [Code]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20deliverables/Final%20code)
+- [Code](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20Deliverables/Final%20code)
 
 <p align="center">
 <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
