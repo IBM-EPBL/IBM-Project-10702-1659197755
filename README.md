@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" align="center" alt="drawing" width="200" />
   <h2 align="center">PERSONAL EXPENSE TRACKER APPLICATION</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+our+Project;Team+Lead+:+Fawwash+Khan;Creators+:+Abu+Afeef;Creators+:+Ajeem;Creators+:+Sanjay+G;">
 </div><br>
 
 # [IBM-Project-10702-1659197755](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755)
@@ -115,3 +116,7 @@ accounting but also give you helpful insights about financial management
 ## Final deliverables
    
 - [Code]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20deliverables/Final%20code)
+
+<p align="center">
+<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
