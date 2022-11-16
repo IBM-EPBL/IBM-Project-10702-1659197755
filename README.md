@@ -60,17 +60,17 @@ noticeable to the client
 
 - They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert
 
-- [Setting up Application Environment](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Setting%20up%20application%20environment)
+- [Setting up Application Environment](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Setting%20up%20Application%20Environment)
     - Create Flask project
     - Work with IBM Cloud CLI, Docker CLI, Sendgrid
 
-- [Implementation of Web Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Implementing%20web%20application) 
+- [Implementation of Web Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Implementing%20Web%20Application) 
    - Create UI to Interact with the application
    - Connect IBM DB2 with Python
 
-- [Integration of Sendgrid Service with Python](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Integrating%20sendgrid%20service)
+- [Integration of Sendgrid Service with Python](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Integrating%20Sendgrid%20Service)
 
-- [Deployment of Cloud Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Deployment%20of%20app%20in%20cloud)
+- [Deployment of Cloud Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Deployment%20of%20App%20in%20Cloud)
    - Containerize the application
    - Upload Image in IBM container directory
    - Deploy on Kubernetes Cluster
@@ -109,10 +109,10 @@ accounting but also give you helpful insights about financial management
 
 ## Project Development Phase - Sprint
 
-- [Sprint 1]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%201)
-- [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%202)
-- [Sprint 3]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%203)
-- [Sprint 4]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%204)
+- [Sprint 1]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%201)
+- [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%202)
+- [Sprint 3]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%203)
+- [Sprint 4]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%204)
 
 ## Final deliverables
    
