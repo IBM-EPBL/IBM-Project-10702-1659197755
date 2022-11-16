@@ -1,15 +1,17 @@
 <br>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" align="center" alt="drawing" width="200" />
+  <h2 align="center">Professional Readiness for Innovation, Employability and Entrepreneurship</h2>
   <h2 align="center">PERSONAL EXPENSE TRACKER APPLICATION</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+our+Project;Team+Lead+:+Fawwash+Khan;Creators+:+Abu+Afeef;Creators+:+Ajeem;Creators+:+Sanjay+G;">
 </div><br>
 
-# IBM-Project-10702-1659197755
+# [IBM-Project-10702-1659197755](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755)
 
 
 
 ## Project Details
-| Team ID       | PNT2022TMID47667        |
+| Team ID       | [PNT2022TMID47667](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755)        |
 | ------------- | -------------                |
 | Technology    | Cloud Application Development|
 |  Domain       | Banking & Finance            | 
@@ -58,17 +60,17 @@ noticeable to the client
 
 - They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert
 
-- [Setting up Application Environment](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Setting%20up%20application%20environment)
+- [Setting up Application Environment](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Setting%20up%20Application%20Environment)
     - Create Flask project
     - Work with IBM Cloud CLI, Docker CLI, Sendgrid
 
-- [Implementation of Web Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Implementing%20web%20application) 
+- [Implementation of Web Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Implementing%20Web%20Application) 
    - Create UI to Interact with the application
    - Connect IBM DB2 with Python
 
-- [Integration of Sendgrid Service with Python](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Integrating%20sendgrid%20service)
+- [Integration of Sendgrid Service with Python](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Integrating%20Sendgrid%20Service)
 
-- [Deployment of Cloud Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Deployment%20of%20app%20in%20cloud)
+- [Deployment of Cloud Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Deployment%20of%20App%20in%20Cloud)
    - Containerize the application
    - Upload Image in IBM container directory
    - Deploy on Kubernetes Cluster
@@ -107,11 +109,15 @@ accounting but also give you helpful insights about financial management
 
 ## Project Development Phase - Sprint
 
-- [Sprint 1]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%201)
-- [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%202)
-- [Sprint 3]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%203)
-- [Sprint 4]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%204)
+- [Sprint 1]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%201)
+- [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%202)
+- [Sprint 3]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%203)
+- [Sprint 4]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20Phase/Sprint%204)
 
 ## Final deliverables
    
-- [Code]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20deliverables/Final%20code)
+- [Code](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Final%20Deliverables/Final%20code)
+
+<p align="center">
+<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
