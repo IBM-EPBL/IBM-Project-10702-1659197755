@@ -105,7 +105,7 @@ accounting but also give you helpful insights about financial management
 
 - [Project Planning Phase](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Design%20%26%20Planning/Project%20Planning%20Phase)
 
-## Sprint
+## Project Development Phase - Sprint
 
 - [Sprint 1]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%201)
 - [Sprint 2]( https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Project%20Development%20phase/Sprint%202)
