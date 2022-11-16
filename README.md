@@ -18,7 +18,7 @@
 ## Team Members
 | Team Member  | Name            | Register No    |
 | -------------| -------------   | --------       |
-| Team Leader    | Mohamed Fawwash Khan S       | 911519104021   |
+| Team Leader    | [Mohamed Fawwash Khan S](http://www.abdullahwc.com/fawwashkhan/profile.html)       | 911519104021   |
 | Team Member1 | Abu Afeef S     | 911519104002  |
 | Team Member2 | Mohamed Ajeem K        | 911519104020   |
 | Team Member3 | Sanjay G       | 911519104301   |
@@ -56,17 +56,17 @@ noticeable to the client
 
 - They have an option to set a limit for the amount to be used for that particular month if the limit is exceeded the user will be notified with an email alert
 
-- Setting up Application Environment
+- [Setting up Application Environment](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Setting%20up%20application%20environment)
     - Create Flask project
     - Work with IBM Cloud CLI, Docker CLI, Sendgrid
 
-- Implementation of Web Application 
+- [Implementation of Web Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Implementing%20web%20application) 
    - Create UI to Interact with the application
    - Connect IBM DB2 with Python
 
-- Integration of Sendgrid Service with Python
+- [Integration of Sendgrid Service with Python](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Integrating%20sendgrid%20service)
 
-- Deployment of Cloud Application
+- [Deployment of Cloud Application](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755/tree/main/Deployment%20of%20app%20in%20cloud)
    - Containerize the application
    - Upload Image in IBM container directory
    - Deploy on Kubernetes Cluster
