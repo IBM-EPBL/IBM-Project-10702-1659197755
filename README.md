@@ -1,6 +1,7 @@
 <br>
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" align="center" alt="drawing" width="200" />
+  <h2 align="center">Professional Readiness for Innovation, Employability and Entrepreneurship</h2>
   <h2 align="center">PERSONAL EXPENSE TRACKER APPLICATION</h2>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+our+Project;Team+Lead+:+Fawwash+Khan;Creators+:+Abu+Afeef;Creators+:+Ajeem;Creators+:+Sanjay+G;">
 </div><br>
