@@ -4,12 +4,12 @@
   <h2 align="center">PERSONAL EXPENSE TRACKER APPLICATION</h2>
 </div><br>
 
-# IBM-Project-10702-1659197755
+# [IBM-Project-10702-1659197755](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755)
 
 
 
 ## Project Details
-| Team ID       | PNT2022TMID47667        |
+| Team ID       | [PNT2022TMID47667](https://github.com/IBM-EPBL/IBM-Project-10702-1659197755)        |
 | ------------- | -------------                |
 | Technology    | Cloud Application Development|
 |  Domain       | Banking & Finance            | 
